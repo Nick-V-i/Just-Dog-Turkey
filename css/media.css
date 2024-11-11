@@ -1,0 +1,1279 @@
+
+
+@media (max-width: 1200px) {
+  .dogbowls__item {
+    max-width: 310px;
+  }
+}
+
+@media (max-width: 1180px) {
+
+  .dogbowl75__img {
+    left: 23%;
+    top: 17%;
+    max-width: 60%;
+  }
+
+  .dogbowl50__img {
+    left: 24%;
+    max-width: 60%;
+  }
+
+  .dogbowl25__img {
+    right: 16%;
+    max-width: 30%;
+  }
+
+  .dogbowls__item {
+    max-width: 270px;
+  }
+
+  .test2 {
+    padding-top: 2750px;
+  }
+  .buttons__wrapper {
+    margin-left: 0px;
+  }
+
+}
+
+@media (max-width: 1025px) {
+
+  .main-content__wrapper-3 {
+    margin-top: -130px;
+  }
+
+  .plashka__img {
+    max-width: 85%;
+  }
+
+  .feed-2 {
+    left: 69%;
+    width: 40%;
+  }
+
+  .bowl__img {
+    right: 10%;
+  }
+
+  .lamb-bg__img {
+
+    right: 60%;
+    min-width: 180%;
+  }
+
+  .test2 {
+    padding-top: 2500px;
+  }
+
+  .dogbowls__wrapepr {
+    flex-wrap: nowrap;
+  }
+
+  .dogbowl75__img {
+    left: 16%;
+    max-width: 78%;
+  }
+
+  .dogbowl50__img {
+    left: 16%;
+    max-width: 78%;
+  }
+
+  .dogbowl25__img {
+    right: 7%;
+    max-width: 38%;
+  }
+
+  .button__descr-position-2 {
+    right: 20%;
+    top: 20%;
+  }
+
+}
+
+@media (max-width: 993px) {
+  .container {
+    padding: 0 35px;
+  }
+
+  .stamp-logo__picture {
+    display: none;
+  }
+
+  .img-100-natural {
+    display: none;
+  }
+
+  .footer__container {
+    padding-bottom: 150px;
+  }
+
+  .main-content-line {
+    max-width: 552px;
+  }
+
+  .plashka__img {
+    max-width: 78%;
+  }
+
+  .plashka__title {
+    margin-bottom: 25px;
+  }
+
+  .main-content__icons {
+
+    column-gap: 30px;
+  }
+
+  .icons__wrapper {
+    flex: 1 1 20%;
+
+  }
+
+  .img-vit-D3__img {
+    left: 35%;
+  }
+
+  .cranberry {
+    top: 15%;
+  }
+
+  .footer__width {
+    max-width: 500px;
+  }
+
+  .footer-line {
+    max-width: 450px;
+  }
+
+  .button__descr-position-2 {
+    right: 10%;
+  }
+
+}
+
+
+@media (max-width: 930px) {
+  .test2 {
+    padding-top: 2380px;
+  }
+
+  .main-content__wrapper-2 {
+    margin-bottom: 100px;
+  }
+
+  .table__descr {
+
+    padding-right: 160px;
+  }
+
+
+}
+
+@media (max-width: 830px) {
+  .test2 {
+    padding-top: 2200px;
+  }
+
+  .button__descr-position-2 {
+    right: 15%;
+  }
+
+  .table__descr {
+
+    padding-right: 90px;
+  }
+
+
+
+
+}
+
+@media (max-width: 769px) {
+
+  .dogbowl {
+    flex: 1 1 calc(50% - 20px);
+    max-width: calc(50% - 20px);
+  }
+
+  .footer__dogs-descr {
+
+    font-size: 10.76px;
+
+  }
+
+
+  .container {
+    padding: 0 30px;
+  }
+
+  .jd-logo__picture {
+    margin-top: 35px;
+  }
+
+  .title {
+    display: none;
+  }
+
+  .img-100-natural-2 {
+    display: block;
+    top: 7%;
+  }
+
+  .plashka__img {
+    max-width: 70%;
+  }
+
+  .cranberry {
+    top: 9%;
+  }
+
+
+
+  .main-content__icons {
+    max-width: 400px;
+  }
+
+  .feed-wrapper__descr {
+    font-size: clamp(28px, 6vw, 43px);
+  }
+
+  .lamb-bg__img {
+    right: 10%;
+    min-width: 120%;
+    top: 0%;
+  }
+
+  .test2 {
+    padding-top: 3000px;
+  }
+
+  .vitamins__wrapepr {
+    padding-bottom: 650px;
+  }
+
+  .dogbowls__wrapper {
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+
+  .dogbowls__item {
+    margin-left: 0;
+    margin-right: 0px;
+    flex: 1 1 45%;
+
+  }
+
+  .dogbowl75__img {
+    max-width: 150%;
+    width: 65%;
+  }
+
+  .dogbowl50__img {
+    max-width: 150%;
+    width: 70%;
+  }
+
+  .dogbowl25__img {
+    max-width: 150%;
+    width: 35%;
+    right: 15%;
+  }
+
+  .button__wrapper {
+    position: relative;
+    display: flex;
+    margin-right: -70px;
+  }
+
+  .button1,
+  .button2 {
+    font-size: 15px;
+  }
+
+  .button1 {
+    padding: 9px 37px;
+  }
+
+
+
+  .button__descr-position-1,
+  .button__descr-position-2 {
+    right: 27.5%;
+  }
+
+  .footer__dogs-wrapper {
+    right: -6%;
+  }
+
+  .footer__container {
+    padding-bottom: 120px;
+  }
+  .footer-feed__img {
+    right: 25%;
+    top: 75%;
+    width: 100%;
+    max-width: 70%;
+  }
+
+  .dogbowls__descr-25-1 {
+    right: 25%;
+  }
+
+  .dogbowls__descr-75-1 {
+    right: 50%;
+  }
+
+  .dogbowls__descr-25-2,
+  .dogbowls__descr-75-2,
+  .dogbowls__descr-100-4 {
+    right: 35%;
+  }
+
+  .dogbowls__descr-25-3 {
+    right: 25%;
+  }
+
+  .dogbowls__descr-75-3 {
+    right: 50%;
+  }
+
+  .main-content__wrapper {
+    flex-direction: column;
+    margin-top: 90px;
+  }
+
+  .bowl__img {
+    top: -23%;
+  }
+
+  .main-content__wrapper-2 {
+    margin-bottom: 0px;
+  }
+
+  .img-vit-D3__img {
+    left: 45%;
+  }
+
+  .pre-footer {
+    margin-bottom: 40px;
+  }
+
+  .footer__dogs-wrapper {
+    top: -1%;
+  }
+
+  .table-1 {
+    display: none;
+  }
+
+  .table-2 {
+    display: block;
+    border-spacing: 5px 10px;
+    max-width: 100%;
+  }
+
+  .gradient-2 {
+    padding: 6px 15px;
+  }
+
+
+  .table-2 td {
+    max-width: 100%;
+    border-bottom: none;
+  }
+
+  .table__title {
+    display: none;
+  }
+
+
+  table tr:first-child td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.3);
+  }
+  table tr:first-child td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.3);
+  }
+  table tr:first-child td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.3);
+  }
+
+  table tr:nth-child(2) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.5);
+  }
+  table tr:nth-child(2) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.5);
+  }
+  table tr:nth-child(2) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.5);
+  }
+
+  table tr:nth-child(3) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.55);
+  }
+  table tr:nth-child(3) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.55);
+  }
+  table tr:nth-child(3) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.55);
+  }
+
+  table tr:nth-child(4) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.6);
+  }
+  table tr:nth-child(4) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.6);
+  }
+  table tr:nth-child(4) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.6);
+  }
+
+  table tr:nth-child(5) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.65);
+  }
+  table tr:nth-child(5) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.65);
+  }
+  table tr:nth-child(5) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.65);
+  }
+
+  table tr:nth-child(6) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.7);
+  }
+  table tr:nth-child(6) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.7);
+  }
+  table tr:nth-child(6) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.7);
+  }
+
+  table tr:nth-child(7) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.75);
+  }
+  table tr:nth-child(7) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.75);
+  }
+  table tr:nth-child(7) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.75);
+  }
+
+  table tr:nth-child(8) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.8);
+  }
+  table tr:nth-child(8) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.8);
+  }
+  table tr:nth-child(8) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.8);
+  }
+
+  table tr:nth-child(9) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.85);
+  }
+  table tr:nth-child(9) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.85);
+  }
+  table tr:nth-child(9) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.85);
+  }
+
+  table tr:nth-child(10) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.9);
+  }
+  table tr:nth-child(10) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.9);
+  }
+  table tr:nth-child(10) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.9);
+  }
+
+  table tr:nth-child(11) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 0.95);
+  }
+  table tr:nth-child(11) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 0.95);
+  }
+  table tr:nth-child(11) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 0.95);
+  }
+
+
+  table tr:nth-child(12) td:nth-child(1).gradient-2 {
+    background: rgba(35, 31, 32, 1);
+  }
+  table tr:nth-child(12) td:nth-child(2).gradient-2 {
+    background: rgba(35, 31, 32, 1);
+  }
+  table tr:nth-child(12) td:nth-child(3).gradient-2 {
+    background: rgba(35, 31, 32, 1);
+  }
+
+  .footer__wrapper {
+    margin-bottom: 10px;
+  }
+
+  .buttons__wrapper {
+    transform: rotate(-90deg);
+    width: 20vw;
+    white-space: nowrap;
+    justify-content: center;
+
+  }
+
+  .button__descr {
+    font-size: 20px;
+  }
+
+  .dogbowl-buttons-container {
+    flex-direction: row;
+    padding-bottom: 25px;
+
+  }
+
+}
+
+
+@media (max-width: 720px) {
+  .main-content__wrapper-2 {
+    margin-bottom: 80px;
+  }
+
+  .bowl__img {
+    right: 13%;
+    min-width: 150%
+  }
+
+  .test2 {
+    padding-top: 3050px;
+  }
+
+  .vitamins__wrapepr {
+    padding-bottom: 450px;
+  }
+
+  .lamb-bg__img {
+    right: -2%;
+    top: 25%;
+  }
+
+}
+
+@media (max-width: 700px) {
+  .dogbowls__item {
+    margin-left: -60px;
+  }
+
+  .footer-feed__img {
+    right: 20%;
+    position: absolute;
+    right: 5%;
+    top: 75%;
+    width: 100%;
+    max-width: 80%;
+  }
+
+
+}
+
+
+
+@media (max-width: 630px)  {
+  .footer__top {
+    max-width: 340px;
+  }
+
+  .footer-line {
+    max-width: 340px;
+  }
+
+  .footer__width {
+    max-width: 340px;
+  }
+
+  .test2 {
+    padding-top: 2900px;
+  }
+
+  .buttons__wrapper {
+    bottom: 22.6%;
+  }
+}
+
+@media (max-width: 590px) {
+  .main-content__wrapper-3 {
+    margin-top: -210px;
+  }
+}
+
+@media (max-width: 577px) {
+
+
+  .container {
+    padding: 0 25px;
+  }
+
+
+
+  .title {
+    display: block;
+  }
+
+  .header__logo  {
+    margin-bottom: 150px;
+  }
+
+  .main-title-wrapper {
+    margin-bottom: 73%;
+  }
+
+  .cranberry {
+    z-index: -1;
+    top: 14%;
+  }
+
+  .apples-1 {
+    display: block;
+    top: 10%;
+  }
+
+  .cranberry-2 {
+    display: block;
+    right: 0px;
+    top: 0.5%;
+  }
+
+  .main-content__wrapper {
+    margin-top: 0;
+  }
+
+  .text1-title1 {
+    display: none;
+  }
+
+  .text1-title2 {
+    display: block;
+  }
+
+  .text2-title1 {
+    display: none;
+  }
+
+  .text2-title2 {
+    display: block;
+  }
+
+  .main-content__icons {
+    margin-bottom: 50px;
+  }
+
+  .plashka__img {
+    max-width: 380px;
+  }
+
+  .main-content__wrapper-3 {
+    flex-direction: column;
+  }
+
+  .test2 {
+    padding-top: 3650px;
+  }
+
+  .lamb-bg__img {
+    max-width: 100%;
+    min-width: 10%;
+    width: 100%;
+    right: -14%;
+  }
+
+  .buttons__wrapper {
+    width: 10vw;
+  }
+
+  .footer__container {
+    padding-bottom: 130px;
+  }
+
+  .lamb-bg-wrapper {
+    margin-top: -60px;
+  }
+
+
+}
+
+@media (max-width: 555px) {
+  .main-content__wrapper-2 {
+    margin-bottom: 200px;
+  }
+
+  .bowl__img {
+    top: 0%;
+  }
+}
+
+@media (max-width: 524px) {
+  .footer__container {
+    padding-bottom: 160px;
+  }
+}
+
+@media (max-width: 507px) {
+  .dogbowls__item {
+    margin-left: 0px;
+  }
+
+  .test2 {
+    padding-top: 3500px;
+  }
+
+  .footer__dogs-wrapper {
+    right: -40px;
+  }
+
+  .footer__top {
+      max-width: 224px;
+  }
+
+  .main-content-line {
+      max-width: 225px;
+      margin-bottom: 15px;
+  }
+
+  .footer__width {
+      max-width: 340px;
+  }
+
+  .footer-feed__img {
+    right: -5%;
+    top: 77%;
+  }
+
+
+
+}
+
+
+@media (max-width: 481px) {
+
+  .dogbowls-feed {
+    display: block;
+    position: absolute;
+    left: -1%;
+    max-width: 100%;
+    z-index: -1;
+    bottom: 16%;
+  }
+
+  .button1, .button2 {
+    font-size: 12px;
+  }
+
+
+  .plashka__descr {
+    top: 12%;
+    left: -6%;
+    padding-left: 20px;
+  }
+
+  .plashka__title {
+    margin-bottom: 20px;
+  }
+
+  .plashka__lamb-wrapper {
+    margin-bottom: 5px;
+  }
+
+  .plashka-line {
+    margin-bottom: 10px;
+  }
+
+  .main-title-wrapper {
+    margin-bottom: 75%;
+  }
+
+  .header__logo {
+    margin-bottom: 50px;
+  }
+
+  .apples-1 {
+    top: 8%;
+    z-index: -1;
+  }
+
+  .feed-wrapper {
+    right: -30px;
+  }
+
+  .label__img {
+    top: -5%;
+    right: 1%;
+  }
+
+  .feed-wrapper__descr {
+    transform: rotate(-90deg);
+  }
+
+  .feed-wrapper__descr {
+    top: 5%;
+    right: 5%;
+  }
+
+  .bowl__img {
+    right: 0;
+    min-width: 220%;
+    left: -40px;
+  }
+
+  .main-content__icons {
+    column-gap: 0px;
+  }
+
+  .img-vit-E__img {
+    right: 63%;
+    top: 0%;
+  }
+
+  .img-vit-A__img {
+    left: 60%;
+    top: 25%;
+  }
+
+  .img-vit-D3__img {
+    left: 9%;
+    top: 55%;
+  }
+
+  .img-L-karnitin__img {
+    left: 40%;
+    top: 75%;
+  }
+
+  .test2 {
+    padding-top: 3670px;
+  }
+
+
+}
+
+
+@media (max-width: 443px) {
+  .test2 {
+    padding-top: 3500px;
+  }
+}
+
+
+@media (max-width: 394px) {
+  .test2 {
+    padding-top: 3390px;
+  }
+
+  .bowl__img {
+    top: 20%;
+  }
+
+}
+
+
+
+@media (max-width: 376px) {
+
+  .title {
+    display: block;
+  }
+
+  .img-100-natural {
+    display: none;
+  }
+
+  .plashka__img {
+    max-width: 100%;
+  }
+
+  .pre-footer-width {
+    padding-top: 20px;
+  }
+
+  .container {
+    padding: 0 15px;
+
+  }
+
+  .test2 {
+    padding-top: 3500px;
+  }
+
+  .jd-logo__picture {
+    margin-top: 35px;
+  }
+
+  .jd-logo {
+    margin-left: 19%;
+  }
+
+  .quality-mark__picture {
+    margin-left: auto;
+    margin-top: 35px;
+  }
+
+  .quality-mark__img {
+    margin-left: -1%;
+  }
+
+  .header__logo {
+    margin-bottom: 30px;
+  }
+
+  .main-title-wrapper {
+    margin-bottom: 242px;
+  }
+
+  .plashka__descr {
+    top: 12%;
+    left: -6%;
+    padding-left: 20px;
+  }
+
+  .plashka__title {
+    margin-bottom: 20px;
+  }
+
+  .plashka__lamb-wrapper {
+    margin-bottom: 5px;
+  }
+
+  .plashka-line {
+    margin-bottom: 10px;
+  }
+
+  .cranberry {
+    z-index: 0;
+    top: 10%;
+  }
+
+  .apples-1 {
+    top: 7%;
+  }
+
+  .cranberry-2 {
+    display: block;
+  }
+
+  .dogbowls-feed {
+    bottom: 14%;
+  }
+
+  .apples-1  {
+    display: block;
+  }
+
+  .apples-2 {
+    display: block;
+  }
+
+  .dogbowls-feed {
+    display: block;
+  }
+
+  .main-content__wrapper {
+    flex-direction: column;
+    margin-top: 28px;
+  }
+
+  .main-content__wrapper-2 {
+    padding-top: 30px;
+    margin-bottom: 200px;
+  }
+
+
+  .main-content__wrapper-3 {
+    flex-direction: column;
+  }
+
+  .text1-title1 {
+    display: none;
+  }
+
+  .text1-title2 {
+    display: block;
+  }
+
+  .text2-title1 {
+    display: none;
+  }
+
+  .text2-title2 {
+    display: block;
+  }
+
+  .main-content-line {
+    max-width: 225px;
+    margin-bottom: 7px;
+  }
+
+  .main-content__descr-300-17 {
+    margin-top: 10px;
+  }
+
+  .feed__img {
+    margin-top: 30px;
+    left: 6%;
+
+  }
+
+  .feed-wrapper__descr {
+    transform: rotate(-90deg);
+    top: 16%;
+    right: -1%;
+  }
+
+  .icons__background {
+    width: 77px;
+    height: 71px;
+  }
+
+  .icons-1 {
+    max-width: 300px;
+    column-gap: 0px;
+  }
+
+  .img-100-natural-2 {
+    display: block;
+    top: 15%;
+  }
+
+  .label__img  {
+    top: 6%;
+    right: -5%;
+  }
+
+  .premium__img {
+    top: 80%;
+    left: 2%;
+  }
+
+  .feed-3 {
+    bottom: -4%;
+    right: -26%;
+    width: 90%;
+  }
+
+  .icons-2 {
+    max-width: 200px;
+    column-gap: 4px;
+    row-gap: 27px;
+    margin-left: 70px;
+  }
+
+  .bowl__img {
+    min-width: 300%;
+    top: 2%;
+    z-index: -1;
+    right: 16%;
+  }
+
+  .main-content__descr-300-margin-bottom {
+    margin-bottom: 25px;
+  }
+
+
+  .lamb-bg-wrapper {
+    margin-top: -110px;
+  }
+
+  .lamb-bg__img {
+    min-width: 120%;
+    right: 8%;
+    top: 4%;
+    padding-bottom: 10px;
+  }
+
+  .vitamins__wrapepr {
+    padding-bottom: 580px;
+  }
+
+  .img-vit-E__img {
+    right: 63%;
+    top: 0%;
+  }
+
+  .img-vit-A__img {
+    left: 60%;
+    top: 25%;
+  }
+
+  .img-vit-D3__img {
+    left: 9%;
+    top: 55%;
+  }
+
+  .img-L-karnitin__img {
+    left: 40%;
+    top: 75%;
+  }
+
+  .button1,
+  .button2 {
+    padding: 8px 20px;
+  }
+
+  .dogbowls__wrapepr {
+
+    flex-wrap: wrap;
+    row-gap: 10px;
+    column-gap: 30px;
+    margin-bottom: 0;
+    margin-right: 30px;
+  }
+
+  .dogbowls__descr {
+    margin-left: 0;
+  }
+
+  .dogbowl75__img {
+    left: 12%;
+    top: 15%;
+  }
+
+  .dogbowl50__img {
+    left: 11%;
+  }
+
+  .dogbowl25__img {
+    right: 8%;
+  }
+
+  .footer__top {
+    max-width: 224px;
+  }
+
+  .footer__dogs-wrapper {
+    top: -16%;
+    padding-top: 9px;
+  }
+
+  .footer__wrapper  {
+    margin-top: 15px;
+    margin-bottom: 8px;
+  }
+
+
+  .table-1 {
+    display: none;
+  }
+
+  .table-2 {
+    display: block;
+    border-spacing: 5px 10px;
+    max-width: 100%;
+  }
+
+  .gradient-2 {
+    padding: 6px 15px;
+  }
+
+
+  .table-2 td {
+
+    max-width: 100%;
+
+    border-bottom: none;
+  }
+
+  .footer__container {
+    padding-bottom:90px;
+
+  }
+
+  .footer-feed__img {
+    right: -4%;
+    top: 82%;
+    width: 100%;
+    max-width: 80%;
+  }
+
+
+
+}
+
+
+@media (max-width: 320px) {
+
+  .header {
+    margin-bottom: 40px;
+  }
+
+  .jd-logo__picture {
+    margin-left: -9%;
+  }
+
+  .main-title-wrapper {
+    margin-bottom: 125px;
+  }
+
+  .plashka__title {
+    font-size: 13px
+  }
+
+  .plashka__descr-500 {
+    font-size: 33px;
+    margin-right: 10px;
+  }
+
+  .plashka-line {
+    max-width: 210px;
+  }
+
+  .plashka__descr-300 {
+    font-size: 15px
+  }
+
+  .cranberry {
+    top: 9%;
+  }
+
+  .icons-2 {
+    margin-left: 70px;
+  }
+
+  .bowl__img {
+    min-width: 600%;
+    top: 15%;
+  }
+
+  .test2 {
+    padding-top: 3300px;
+  }
+
+  .img-vit-A__img {
+    top: 15%;
+  }
+
+  .img-vit-D3__img {
+    top: 45%;
+  }
+
+  .img-L-karnitin__img {
+    left: 50%;
+    top: 65%;
+  }
+
+  .vitamins__wrapepr {
+    padding-bottom: 450px;
+  }
+
+  .pre-footer {
+    margin-top: -100px;
+  }
+
+  .dogbowls-feed {
+    bottom: 14%;
+  }
+
+  .gradient-2 {
+    padding: 5px 5px;
+  }
+
+
+}
